@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FolderFinder:jar">
+    <output-path>$PROJECT_DIR$/../FolderFinder_jar</output-path>
+    <root id="archive" name="FolderFinder.jar">
+      <element id="module-output" name="FolderFinder" />
+    </root>
+  </artifact>
+</component>
